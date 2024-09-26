@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blacurly
-- 👀 I’m interested in Data, Tech, Gender, Enterpreneurship
+- 👀 I’m interested in Data, Economic, and Gender
 - 🌱 I’m pursuing MS in APplied Data Science @Uchicago
 - 💞️ I’m open to any discussion
 - 📫 Feel free to reach me
