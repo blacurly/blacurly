@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blacurly
 - 👀 I’m interested in Data, Tech, Gender, Enterpreneurship
-- 🌱 I’m currently learning Python and Quantitative Research
+- 🌱 I’m pursuing MS in APplied Data Science @Uchicago
 - 💞️ I’m open to any discussion
 - 📫 Feel free to reach me
 
