@@ -2,7 +2,7 @@
 
 ### Data Scientist | Computer Vision Enthusiast | AI for Social Good | Tech Feminist
 
-I’m a Data Scientist at DT Global, where I work with government partners to help build strong data foundations for better decision-making and public service delivery.
+I’m a Data Scientist at DT Global, where I work with government partners to help build a system for better decision-making and public service delivery.
 My main interest lies in computer vision, particularly at the intersection of high-performance computing and social equity. I’m currently exploring how computer vision can be developed into impactful, real-world solutions that address societal challenges.
 
 Outside of work, I’m building a digital platform, [Sa Perempuan Papua](https://www.instagram.com/saperempuanpapua), focused on creating a safe virtual space. The platform aims to develop digital reporting mechanisms for gender-based violence (GBV) cases, leveraging technology to improve accessibility, safety, and advocacy.
