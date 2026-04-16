@@ -2,8 +2,8 @@
 
 ### Data Scientist | Computer Vision Enthusiast | AI for Social Good | Tech Feminist
 
-I’m a Data Scientist at DT Global, where I work with government partners to help build a system for better decision-making and public service delivery. 
-My main interest lies in computer vision, particularly at the intersection of high-performance computing and social equity. I’m currently exploring how computer vision can be developed into impactful, real-world solutions that address societal challenges.
+I’m a Data Scientist at DT Global, where I work with government & non-profit partners to help build a system for better decision-making and public service delivery. 
+I recently find myself interested in computer vision, particularly at the intersection of high-performance computing and social equity. I’m currently exploring how computer vision can be developed into impactful, real-world solutions that address societal challenges.
 
 Outside of work, I’m building a digital platform, [Sa Perempuan Papua](https://www.instagram.com/saperempuanpapua), focused on creating a safe virtual space. The platform aims to develop digital reporting mechanisms for gender-based violence (GBV) cases, leveraging technology to improve accessibility, safety, and advocacy.
 
@@ -13,7 +13,7 @@ Outside of work, I’m building a digital platform, [Sa Perempuan Papua](https:/
 - 🏊 **Swimming:** My way of "clearing the cache" and staying grounded.
 - 🐈 **Cat Mom:** My unofficial (and very fluffy) debugging partners.
 - 💐 **Flower Arranging:** Exploring aesthetics and balance through floral compositions.
-- 🕵️ **Thriller & Crime Investigation:** A big fan of action and crime stories—my brain just loves solving puzzles and analyzing motives!
+- 🕵️ **Thriller & Crime Investigation:** A big fan of action and crime stories
 ---
 
 ### 🛠 Tech Stack & Tools
