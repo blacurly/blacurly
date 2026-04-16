@@ -8,6 +8,10 @@ My main interest lies in computer vision, particularly at the intersection of hi
 Outside of work, I’m building a digital platform, [Sa Perempuan Papua](https://www.instagram.com/saperempuanpapua), focused on creating a safe virtual space. The platform aims to develop digital reporting mechanisms for gender-based violence (GBV) cases, leveraging technology to improve accessibility, safety, and advocacy.
 
 ---
+### 🌿 Beyond the Code
+- 🏊 **Swimming:** My way of clearing the cache and staying grounded.
+- 🐈 **Cat Mom:** My unofficial debugging partners.
+---
 
 ### 🛠 Tech Stack & Tools
 
