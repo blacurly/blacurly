@@ -9,8 +9,11 @@ Outside of work, I’m building a digital platform, [Sa Perempuan Papua](https:/
 
 ---
 ### 🌿 Beyond the Code
-- 🏊 **Swimming:** My way of clearing the cache and staying grounded.
-- 🐈 **Cat Mom:** My unofficial debugging partners.
+
+- 🏊 **Swimming:** My way of "clearing the cache" and staying grounded.
+- 🐈 **Cat Mom:** My unofficial (and very fluffy) debugging partners.
+- 💐 **Flower Arranging:** Exploring aesthetics and balance through floral compositions.
+- 🕵️ **Thriller & Crime Investigation:** A big fan of action and crime stories—my brain just loves solving puzzles and analyzing motives!
 ---
 
 ### 🛠 Tech Stack & Tools
