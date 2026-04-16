@@ -8,10 +8,10 @@ I recently find myself interested in computer vision, particularly at the inters
 Outside of work, I’m building a digital platform, [Sa Perempuan Papua](https://www.instagram.com/saperempuanpapua), focused on creating a safe virtual space. The platform aims to develop digital reporting mechanisms for gender-based violence (GBV) cases, leveraging technology to improve accessibility, safety, and advocacy.
 
 ---
-### 🌿 Beyond the Code
+### 🌿 Beyond the Code, I love
 
 - 🏊 **Swimming:** My way of "clearing the cache" and staying grounded.
-- 🐈 **Cat Mom:** My unofficial (and very fluffy) debugging partners.
+- 🐈 **Cat:** My unofficial (and very fluffy) debugging partners.
 - 💐 **Flower Arranging:** Exploring aesthetics and balance through floral compositions.
 - 🕵️ **Thriller & Crime Investigation:** A big fan of action and crime stories
 ---
