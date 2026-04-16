@@ -5,7 +5,7 @@
 I’m a Data Scientist at DT Global, where I work with government partners to help build strong data foundations for better decision-making and public service delivery.
 My main interest lies in computer vision, particularly at the intersection of high-performance computing and social equity. I’m currently exploring how computer vision can be developed into impactful, real-world solutions that address societal challenges.
 
-Outside of work, I’m building a digital platform, [![Sa Perempuan Papua](https://img.shields.io/badge/Sa%20Perempuan%20Papua-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saperempuanpapua), focused on creating a safe virtual space. The platform aims to develop digital reporting mechanisms for gender-based violence (GBV) cases, leveraging technology to improve accessibility, safety, and advocacy.
+Outside of work, I’m building a digital platform, [Sa Perempuan Papua](https://www.instagram.com/saperempuanpapua), focused on creating a safe virtual space. The platform aims to develop digital reporting mechanisms for gender-based violence (GBV) cases, leveraging technology to improve accessibility, safety, and advocacy.
 
 ---
 
