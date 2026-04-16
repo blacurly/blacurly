@@ -15,8 +15,3 @@ I am a Data Scientist driven by the intersection of high-performance computing a
 | **Data & Backend** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) <br>
 | **Operating Systems** | ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) <br> 
 
-### 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=blacurly&show_icons=true&theme=dark&hide_border=true" alt="Fara's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacurly&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
