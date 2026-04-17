@@ -1,4 +1,4 @@
-# Holla, I'm Fara Olivia Rumere (blacurly)  
+# Holla, I'm Olivia  
 
 ### Data Scientist | Computer Vision Enthusiast | AI for Social Good | Tech Feminist
 
