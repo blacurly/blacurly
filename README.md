@@ -25,3 +25,5 @@ Outside of work, I’m building a digital platform, [Sa Perempuan Papua](https:/
 | **Data & Backend** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) <br>
 | **Operating Systems** | ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) <br> 
 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blacurly&layout=donut&theme=tokyonight)
