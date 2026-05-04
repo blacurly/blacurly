@@ -9,6 +9,8 @@ Outside of work, I’m building a digital platform, [Sa Perempuan Papua](https:/
 
 I love volunteering while traveling so when I am on break from my full-time job, most likely you will find me on social mission trip.
 
+Feel free to DM me at faransina.rumere@gmail.com to discuss
+
 ---
 ### 🌿 Beyond the Code, I love
 
