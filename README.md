@@ -2,11 +2,6 @@
 
 ### Data Scientist | Computer Vision Enthusiast | AI for Social Good | Tech Feminist
 
-I’m a Data Scientist for DT Global Asia Pasific, where I work with government partners to help build a system for better decision-making and public service delivery. I am also doing Part Time AI Instructor at University of Indonesia & Skillvul Group (Markoding) 
-I recently find myself interested in computer vision, particularly at the intersection of high-performance computing and social equity. 
-
-Outside of work, I’m building a digital platform, [Sa Perempuan Papua](https://www.instagram.com/saperempuanpapua), focused on creating a virtual safe space. The platform aims to develop digital reporting mechanisms for gender-based violence (GBV) cases, leveraging technology to improve accessibility, safety, and advocacy.
-
 I love volunteering while traveling so when I am on break from my full-time job, most likely you will find me on social mission trip.
 
 Feel free to DM me at faransina.rumere@gmail.com to discuss
