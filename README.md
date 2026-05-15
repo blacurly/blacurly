@@ -2,7 +2,7 @@
 
 ### Data Scientist | Computer Vision Enthusiast | AI for Social Good | Tech Feminist
 
-I love volunteering while traveling so when I am on break from my full-time job, most likely you will find me on social mission trip.
+I love volunteering while traveling so when I am on break from my job, most likely you will find me on social mission trip.
 
 Feel free to DM me at faransina.rumere@gmail.com to discuss
 
