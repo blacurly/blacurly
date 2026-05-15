@@ -1,4 +1,4 @@
-# Holla, I'm Olivia  
+# Holla, I'm Fara Olivia  
 
 ### Data Scientist | Computer Vision Enthusiast | AI for Social Good | Tech Feminist
 
